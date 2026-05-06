@@ -3,11 +3,11 @@
 
 This is the implementation of https://github.com/Hanqer/deep-hough-transform on Google Colab. The paper "Deep Hough Transform for Semantic Line Detection" (ECCV 2020, PAMI 2021).
 
-1. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform.ipynb) Testing of pre-trained model on Google Colab
+1. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/P-franczak/colab-deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform.ipynb) Testing of pre-trained model on Google Colab
 
-2. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_NKL.ipynb) Training on NKL Dataset on Google Colab
+2. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/P-franczak/colab-deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_NKL.ipynb) Training on NKL Dataset on Google Colab
 
-3. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_SEL.ipynb) Training on SEL Dataset on Google Colab
+3. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/P-franczak/colab-deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_SEL.ipynb) Training on SEL Dataset on Google Colab
 
 # Demo 1
 
@@ -27,7 +27,7 @@ This is the implementation of https://github.com/Hanqer/deep-hough-transform on 
 
 Click on the following link.
 
-https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform.ipynb
+https://colab.research.google.com/github/P-franczak/colab-deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform.ipynb
 ### Must Do After Clicking 
 
 #### >>>>> Change runtime type
@@ -46,7 +46,7 @@ https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/bl
 
 Click on the following link.
 
-https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_NKL.ipynb
+https://colab.research.google.com/github/P-franczak/colab-deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_NKL.ipynb
 ### Must Do After Clicking 
 
 #### >>>>> Change runtime type
@@ -65,8 +65,7 @@ https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/bl
 
 Click on the following link.
 
-https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_SEL.ipynb
-
+https://colab.research.google.com/github/P-franczak/colab-deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_SEL.ipynb
 ### Must Do After Clicking 
 
 #### >>>>> Change runtime type
